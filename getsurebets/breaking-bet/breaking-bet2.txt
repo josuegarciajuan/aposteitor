@@ -1,0 +1,331 @@
+
+PREMATCH
+LIVE
+beta
+VALUEBETS
+PRICING
+SIGN IN
+SIGN UP
+×
+Warning!
+Restricted mode. To display the full functionality you need to get subscription.
+
+Profit	Time	Event(2out, 3out, rules: 23151 / 238194)Timezone: UTC	
+376.1%
+a few seconds
+Live	Football(1 period)	
+Betcity		
+FAS - CD Luis Angel Firpo
+Soccer. Soccer. El Salvador. Primera Division.
+
+XXXX	XX
+Zenit		
+FAS - CD Luis Angel Firpo 0:0 38'
+Футбол. El Salvador
+
+XXXX	XX
+all arbs (3360)
+96.15%
+4 minutes
+Live	Football(1 period)	
+LigaStavok		
+Минерос де Сакатекас - Симарронес де Сонора 0:1
+Soccer. Мексика. Лига де Ассенсо
+
+XXXX	XX
+Unibet		
+Mineros de Zacatecas - Cimarrones De Sonora
+Football. Football. Mexico. Liga de Expansion MX
+
+XXXX	XX
+all arbs (7705)
+82.17%
+a few seconds
+Live	Football	
+Meridianbet		
+Antigua GFC - Deportivo Iztapa 1:2 50'
+Football. Guatemalan. Liga Nacional
+
+XXXX	XX
+Unibet		
+Antigua GFC - Deportivo Iztapa
+Football. Football. Guatemala. Liga Nacional
+
+XXXX	XX
+all arbs (2396)
+80.35%
+5 minutes
+Live	Tennis(3 period)	
+Unibet		
+Bouzkova, Marie - Tomljanović, Ajla
+Tennis. Tennis. WTA. Charleston
+
+XXXX	XX
+Bwin		
+Marie Bouzkova - Ajla Tomljanovic 3rd Set
+Tennis. World. WTA Charleston (USA) - Clay
+
+XXXX	XX
+all arbs (41)
+51.51%
+11 minutes
+Live	Football(2 period)	
+Zenit		
+Coimbra EC - Cruzeiro 0:1 (0:0) 82'
+Футбол. Brazil. Mineiro
+
+XXXX	XX
+WGoldenbet		
+Coimbra EC MG - Cruzeiro MG 0:1
+Soccer. Brazil. Mineiro, Modulo I
+
+XXXX	XX
+all arbs (1260)
+36.98%
+3 minutes
+Live	Baseball	
+1XBet		
+New York Mets - Philadelphia Phillies 1:7, 5 Inning
+Baseball. USA. MLB
+
+XXXX	XX
+Unibet		
+Philadelphia PhilliesNew York Mets
+Baseball. Baseball. MLB
+
+XXXX	XX
+all arbs (270)
+30.43%
+7 minutes
+Live	Football	
+WGoldenbet		
+CA Talleres - Velez Sarsfield 1:0
+Soccer. Argentina. Copa Argentina
+
+XXXX	XX
+Fonbet		
+Talleres Cordoba - Velez Sarsfield 1-0 54:45
+Football. Football. Argentina. Cup. 1/16
+
+XXXX	XX
+all arbs (2082)
+23.18%
+a few seconds
+Live	Tennis(Games/Points)	
+Unibet		
+Anshba, Amina - Pigossi, Laura
+Tennis. Tennis. ITF Women. Cordoba
+
+XXXX	XX
+Lottomatica		
+ANSHBA, AMINA - PIGOSSI, LAURA
+Tennis. ITF. ITF ARGENTINA
+
+XXXX	XX
+all arbs (18)
+18.87%
+a few seconds
+Live	TableTennis(Games/Points, 4 period)	
+Olimp		
+Согомонян Хр. - Смоян А. 1:2 (14:12, 8:11, 11:13, 2:0) #1
+Настольный теннис. Мужчины. ITT CUP. Армения
+
+XXXX	XX
+Betcity		
+Soghomonyan H. - Smoyan A.
+Table Tennis. Table Tennis. ITT Cup. Armenia. Men. Group C.
+
+XXXX	XX
+all arbs (3)
+18.85%
+3 minutes
+Live	Football(Corners)	
+Bet365		
+Ayacucho FC - CD Universidad San Martin
+Soccer. Peru Primera Division
+
+XXXX	XX
+Unibet		
+Ayacucho FC - Universidad de San Martin de Porres
+Football. Football. Peru. Primera Division
+
+XXXX	XX
+all arbs (74)
+16.65%
+a minute
+Live	Hockey(2 period)	
+Fonbet		
+Dallas Stars (ArtRos27) - Vancouver Canax (vormak244) 1-1 26:00
+Hockey. Hockey. NHL 21. League Pro. Khabarovsk. Challengers Division. 3x4 min.
+
+XXXX	XX
+Betcity		
+Dallas Stars (ArtRos27) - Vancouver Canucks (vormak244)
+Ice hockey. Cyberhockey. NHL 21. Liga Pro. Challengers tournament.
+
+XXXX	XX
+all arbs (11)
+14.58%
+5 minutes
+Live	Basketball(1 half)	
+Bet365		
+Villa San Martin - Union Santa Fe
+Basketball. Argentina La Liga
+
+XXXX	XX
+Unibet		
+Club Atlético Villa San Martín - Union De Santa Fe
+Basketball. Basketball. Argentina. TNA
+
+XXXX	XX
+all arbs (50)
+13.15%
+2 minutes
+Live	Tennis	
+Bwin		
+Ashleigh Barty - Misaki Doi 1st Set
+Tennis. World. WTA Charleston (USA) - Clay
+
+XXXX	XX
+Betcity		
+Barty A. - Doi M.
+Tennis. Tennis. WTA 500. Charleston. USA. Clay.
+
+XXXX	XX
+all arbs (206)
+13%
+a few seconds
+Live	Basketball(1 period)	
+Unibet		
+San Martín Corrientes - Platense
+Basketball. Basketball. Argentina. LNB
+
+XXXX	XX
+Parimatch		
+San Martin de Corrientes - CA Platense 15-10(15-10)
+Basketball. Basketball. Argentina. LNB
+
+XXXX	XX
+all arbs (224)
+12.16%
+a few seconds
+Live	TableTennis(Games/Points)	
+Bet9ja		
+Fedorchenko, Andriy - Kuzyo, Levko Set 5; 2:2
+Table tennis. International - Ukraine Win Cup
+
+XXXX	XX
+Marathonbet		
+Fedorchenko, Andrey - Kuzyo, Lev 2:2 (11:6, 9:11, 11:4, 9:11, *_8:3_)
+Table Tennis. Win Cup. Ukraine. Men. Singles
+
+XXXX	XX
+all arbs (3)
+12.14%
+3 minutes
+Live	Football	
+Unibet		
+Leicester (Skripp) Esports - AS Roma (Vito) Esports
+Football. Football. |Esports FIFA|. Cyber Stars League (2x5mins)
+
+XXXX	XX
+Bet365		
+Leicester (skripp) Esports - Roma (Vito) Esports
+Soccer. Esoccer Live Arena - 10 mins play
+
+XXXX	XX
+10.74%
+a few seconds
+Live	Volleyball(Games/Points, 1 period)	
+Leon		
+Funvic/Taubaté - Renata/Campinas 1st set, 0:0*
+Volleyball. Brazil Brazil Superliga
+
+XXXX	XX
+Betcity		
+Taubate Funvic - Renata Campinas
+Volleyball. Volleyball. Brazil. Superliga. Men. Play-off. Semifinals. Best of 3.
+
+XXXX	XX
+all arbs (31)
+10.08%
+a few seconds
+Live	Volleyball(Games/Points, 1 period)	
+Tempobet		
+Funvic/Taubate - Volei Renata/Campinas 0:0 -1'
+Volleyball. Brazil. Superliga, Playoffs
+
+XXXX	XX
+1XBet		
+Funvic - Volei Renata 0:0, 1 Set
+Volleyball. Brazil. SuperLiga
+
+XXXX	XX
+all arbs (42)
+8.92%
+11 minutes
+Live	Football	
+Sbobet		
+Santa Cruz PE - Vera Cruz
+Football. Brazil Pernambucano
+
+XXXX	XX
+Unibet		
+Santa Cruz-PE - Vera Cruz-PE
+Football. Football. Brazil. Pernambucano
+
+XXXX	XX
+all arbs (1378)
+8.73%
+a few seconds
+Live	Tennis(Games/Points)	
+Betcity		
+Anshba A. - Pigossi L.
+Tennis. Tennis. Women. ITF 25. Cordoba. Argentina. Clay.
+
+XXXX	XX
+Parimatch		
+Anshba Amina - Pigossi Laura 1-1(7-5,3-6,5-5) 40:40
+Tennis. Tennis. ITF. Women. Cordoba. Clay
+
+XXXX	XX
+1XBet		
+Amina Anshba - Laura Pigossi 1:1, 3 Set
+Tennis. ITF. Cordoba. Women
+
+XXXX	XX
+all arbs (41)
+What are Surebets?
+
+What are Valuebets?
+
+Help
+
+FAQ
+
+Tariffs
+
+Payments info
+
+Refund
+
+Affiliate program
+
+Blog
+
+About
+
+Feedback
+
+Calculator
+
+Propositions
+
+© BreakingBet 2016 - 2021Privacy policeUser agreement
+Breaking-bet.com not involved in the organization and conduct of gambling.
+
+Information is explanatory in nature.
+
+All rights reserved. 18+
+
+By using our website you are consenting to our use of cookies in accordance with our privacy police and user agreement

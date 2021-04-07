@@ -1,0 +1,118 @@
+<?php
+
+/*
+ * * * * * * * * * * * * * * * * * * 
+  07-abr-2021
+  Josué García Juan
+ * * * * * * * * * * * * * * * * * *
+*/
+
+echo file_get_contents("https://breaking-bet.com/en/live");
+
+
+post a 
+https://breaking-bet.com/api/v1/live/arbs/search
+    
+    request headers:
+    :authority: breaking-bet.com
+:method: POST
+:path: /api/v1/live/arbs/search
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: es-ES,es;q=0.9
+authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJsaXZlIjpmYWxzZSwicHJlbWF0Y2giOmZhbHNlLCJib29rbWFrZXJzIjpbMjEsNTksNTMsMzksMzMsMTIsNDksNiwyMiwzMSwxMCwyMyw0OCwzLDYyLDU2LDE0LDI1LDE2LDYzLDQxLDgsNTUsNjAsNjgsNSw0MCw3MCwzNCw1Miw0MiwzOCw1NCwyOSw3LDY0LDksNjUsNDMsNDYsNzEsNTEsMjcsMTgsMTksMzYsMTEsMjgsNCw0NF0sImV4cCI6MTYxNzgzMjUzM30.BU9Ai3emuoyloR7nidH8zoBJ38kLubfojYm9etD3Qn0
+cache-control: no-cache
+content-length: 413
+content-type: text/plain;charset=UTF-8
+cookie: _ga=GA1.2.1737322958.1617662279; _ym_uid=1617662279152009414; _ym_d=1617662279; referer=34879; _gid=GA1.2.840012609.1617812452; _ym_isad=2; _breakingbet_session=2864885fa5dd7baf476a17f986f3ea1a; _gat=1
+origin: https://breaking-bet.com
+pragma: no-cache
+referer: https://breaking-bet.com/en/live
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+ * 
+ */
+    
+    
+    request payload:
+    age
+:
+255
+allowed_bookmakers
+:
+[]
+coeffs_ranges
+:
+{}
+in_break_only_sports
+:
+[]
+inner
+:
+false
+l2
+:
+true
+l3
+:
+true
+level
+:
+0
+lifetime_max_minutes
+:
+"0"
+lifetime_max_seconds
+:
+"0"
+lifetime_min_minutes
+:
+"0"
+lifetime_min_seconds
+:
+"0"
+max
+:
+"0"
+min
+:
+"0"
+required_bookmakers
+:
+[]
+rules
+:
+true
+skip_arbs
+:
+[]
+skip_integer
+:
+false
+skip_quarter
+:
+false
+skip_sections
+:
+[]
+sort
+:
+"percent"
+sports
+:
+[]
+type
+:
+"prematch"
+    "
+        . "
+    
+    
+    
+    de aki de arbs sacoi el Ev que es e nuero este:
+  https://breaking-bet.com/en/live/1600571  ya pasacar todas las tasas de ese partido
+    
+    
+    
+    
+    
